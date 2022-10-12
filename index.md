@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: به وبلاگ من خوش آمدید
 ---
 
